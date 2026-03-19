@@ -20,7 +20,7 @@
     "symfony/finder": "^6|^7"
   },
   "require-dev": {
-    "orchestra/testbench": "^7|^8|^9|^10"
+    "orchestra/testbench": "^7|^8|^9|^10|^11"
   },
   "suggest": {
      "tanmuhittin/laravel-google-translate": "If you want to translate using Google API"
